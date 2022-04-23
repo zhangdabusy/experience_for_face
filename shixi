@@ -1,5 +1,6 @@
-# 过拟合有几种解决的方式 
+ # 过拟合有几种解决的方式 
 [如何防止过拟合CSDN](https://blog.csdn.net/kupepoem/article/details/120206456)
+* 可以对进行特征降维（如无监督降维PCA，有监督降维LDA）
 * 交叉验证
 * dropout
 * L1、l2正则化
